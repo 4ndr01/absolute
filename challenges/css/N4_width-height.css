@@ -1,0 +1,14 @@
+.grande{
+   width: 100%;
+    height: 10rem;
+
+}
+
+.moyen{
+    width: 75%;
+    height: auto;
+}
+
+.small{
+    width: 20rem;
+}

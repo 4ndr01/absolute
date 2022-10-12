@@ -1,0 +1,16 @@
+.div1{
+    padding: 1rem;
+    margin-right: 1rem;
+    width: 40%;
+}
+
+.div2{
+    height: auto;
+    width: 50%;
+}
+
+.div3{
+    margin-top: 5rem;
+    margin-left: auto;
+    padding: 3rem;
+}

@@ -1,0 +1,97 @@
+
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.main1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background: blue;
+    width: 15rem;
+    height: 10rem;
+    border-radius: 0.25rem;
+
+}
+
+.d1{
+    margin: .5rem;
+    height: 2rem;
+    background: red;
+    width: 2rem;
+
+    border-radius: 0.25rem;
+
+
+}
+.main2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+    background: blue;
+    width: 15rem;
+    height: 10rem;
+    border-radius: 0.25rem;
+}
+.d2{
+    margin: .5rem;
+    background-color: red;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 0.25rem;
+
+}
+
+.main3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: blue;
+    width: 15rem;
+    height: 10rem;
+    border-radius: 0.25rem;
+}
+
+.d3{
+    margin: .5rem;
+    background-color: red;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 0.25rem;
+}
+
+.main4{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background: blue;
+    width: 15rem;
+    height: 10rem;
+    border-radius: 0.25rem;
+}
+
+.d4{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: .5rem;
+    background-color: red;
+    height: 3.5rem;
+    width: 3.5rem;
+    border-radius: 0.25rem;
+
+}
+
+.second{
+    margin-left: .15rem;
+    margin-top: .15rem;
+    height: 1rem;
+    width: 3.15rem;
+    background-color: green;
+}

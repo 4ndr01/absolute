@@ -1,0 +1,47 @@
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    width: 20rem;
+    height: 10rem;
+    border: solid black .05rem;
+    border-radius: 0.25rem;
+    order: 3;
+}
+
+.n2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.txt1{
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.txt2{
+    font-size: 1.5rem;
+    color: #0065c9;
+    font-style: italic;
+}
+
+.txt3{
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.centre{
+   text-align:center;
+}
+.droite{
+    text-align: right;
+}
+
+.equilibre{
+    text-align: justify;
+}

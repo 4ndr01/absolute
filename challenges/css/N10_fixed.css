@@ -1,0 +1,7 @@
+.banner{
+    position: fixed;
+    width: 100%;
+    height: 2rem;
+    right: 0%;
+    background-color: orange;
+}

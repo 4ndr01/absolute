@@ -1,0 +1,12 @@
+.back1{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(9,9,121,1) 48%, rgba(255,145,0,1) 76%);
+}
+
+.back2{
+    background-image: url("https://images.unsplash.com/photo-1571235908642-0459c9475ac3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+}
+
+.back3{
+    background-image: url("../../assets/bg.gif");
+}
